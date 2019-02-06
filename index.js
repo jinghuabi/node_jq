@@ -6,5 +6,5 @@ app.get('/',(req,res)=>{
   //console.log(__dirname);
 });
 
-app.listen(3014);
-console.log("Server listening on port 3014");
+app.listen(3022);
+console.log("Server listening on port 3022");
