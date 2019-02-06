@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jinghuabi/node_jq/issues"
   },
-  "homepage": "https://github.com/jinghuabi/node_jq#readme"
+  "homepage": "https://github.com/jinghuabi/node_jq#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
